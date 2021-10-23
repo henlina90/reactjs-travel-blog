@@ -1,6 +1,6 @@
 # Travel Website Design 
 
-This project was built using React, React Hooks, and React Router. 
+This project was built using ReactJS, React Hooks, and React Router. 
 
 Features:
 - video background
